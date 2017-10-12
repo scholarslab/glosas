@@ -1,0 +1,16 @@
+# Site Metadata
+title: "Glosas Croniquenses"
+program: "Programa de Estudios Andinos"
+url: "http://glosas.scholarslab.org"
+baseurl: ""
+
+# Build Settings
+incremental: true
+exclude:
+  - Gemfile
+  - Gemfile.lock
+collections:
+  autores:
+    output: true
+    permalink: /:collection/:name/
+

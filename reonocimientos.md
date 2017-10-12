@@ -1,0 +1,26 @@
+---
+layout: page
+title: Equipo de Trabajo
+---
+
+_Glosas croniquenses_ forma parte, ahora, del Repositorio Institucional de la PUCP, gracias a un convenio firmado entre Lydia Fossa, PhD, responsable del proyecto y el doctor Marcial Rubio, Rector de la Universidad Católica del Perú. La incorporación de este proyecto al Repositorio Institucional de la PUCP ha tenido lugar gracias a la invitación del doctor Marco Curatola, Director del Programa de Estudios Andinos de la misma Universidad.
+
+El presente Glosario es el resultado del cuidadoso trabajo de María Claudia Delgado, Diana Coronado y Marco Ferrell y la coordinación de Lydia Fossa, PhD. Asimismo, han colaborado la Unidad de Automatización del Sistema de Bibliotecas y la Oficina de Asesoría Técnica del Rectorado de la Pontificia Universidad Católica del Perú.
+
+En esta segunda etapa incoporamos a varios escritores religiosos, que aportaron una gran cantidad de terminología indígena referida a sus creencias. Cabe destacar que esta terminología no se encuentra en los Vocabularios de principios del siglo XVII, ya que este tipo de léxico fue específicamente descartado del acervo que registran, autores como Cristóbal de Molina, Cristóbal de Albornoz, Bartolomé Alvarez, Martín de Murúa y el oidor Hernando de Santillán. Todos ellos escribieron textos relativos a la realidad indígena andina durante la segunda mitad del siglo XVI, menos Murúa que lo hizo durante la primera década del siglo XVII.
+
+Esta Base de datos es una herramienta imprescindible por la rapidez y la versatilidad con que registra y exhibe la información para el estudio de la historia cultural Inka y Pre-Inka, de las lenguas andinas y castellana del siglo XVI, así como las ideas vigentes en esa fase de la presencia española en los Andes. También es una contribución a la ampliación y profundización de los recursos idiomáticos de las lenguas nativas y del consecuente enriquecimiento de sus patrimonios lingüísticos.
+
+La disponibilidad de fuentes electrónicas para el investigador aumentará significativamente con esta Base de datos. La flexibilidad que ofrece la nueva tecnología es idónea para este tipo de información. Las bases de datos se pueden utilizar independientemente o en conjunto, combinadas de acuerdo a las necesidades del investigador. La información se puede obtener sobre un sólo término en todos los autores, en un sólo autor sobre una selección de términos, y todas las combinaciones posibles. Los usuarios pueden adaptar las bases de datos a sus requerimientos de investigación y preparar listados más cortos a través de la selección de los datos para producir las fusiones y combinaciones que necesiten. Se puede también imprimir los listados que se quiera desde la red.
+
+Equipo de trabajo
+El primer equipo de trabajo del proyecto bajo la supervisión de la Dra. Lydia Fossa, estaba compuesto por Roxana Castañeda, digitadora/coordinadora, la paleógrafa Martha Solano C. y el lingüista Marco Ferrel. Para contribuir con el proceso de revisión del ingreso de datos, invité a un miembro independiente, Judith Caballero, para que preparara un segundo listado de las palabras en lenguas nativas y poder contrastarlo con el primero. Miguel Rodríguez Mondoñedo, lingüista experto en bases de datos, colocó la información elaborada en la red electrónica.
+
+Primeros pasos del proyecto 
+La primera identificación de los términos a ingresar produjo unas 200 entradas por texto estudiado, pero ese número aumentó en una segunda revisión. Cuando la paleógrafa comparó el texto editado con el manuscrito, sugirió que se incluyera también los topónimos. Estos términos generalmente describen el lugar que nombran, de manera que sus significados aumentarán el acervo léxico-semántico de las múltiples lenguas nativas que se hablaban y se hablan hoy en el territorio andino. Además, los nombres de los lugares nos dan más datos sobre la identidad de la lengua o lenguas presentes en el topónimo. Con las ocupaciones tanto sucesivas como simultáneas de muchos grupos étnicos en un mismo territorio, sucedió que cada uno nombrara las características geográficas en su propia lengua, y que nos hayan legado nombres superpuestos en lenguas distintas. Ello confirma la asombrosa multiplicidad que presenta la distribución lingüística del Tawantinsuyu (Torero 1990:239).
+
+Cuando añadimos los antropónimos, el número de palabras listadas superaba ya las 400 en autores como Cieza y Betanzos. Hasta ahora sólo contamos con la información léxica y semántica de los nombres que nos proporcionaron los autores de textos y documentos históricos tempranos, no así las aclaraciones sobre la función que cumplían: si eran títulos, patronímicos, o primeros nombres. Como se puede apreciar, tanto los topónimos como los antropónimos identificados en textos tempranos son palabras muy productivas para la investigación léxica y semántica.
+
+Queda abierta la invitación a todos los investigadores de textos primarios andinos escritos en castellano a participar en este proyecto lexicológico. Glosas croniquenses acogerá los aportes que enriquezcan el acervo lingüístico de las lenguas generales.
+
+Las colaboraciones, comentarios y sugerencias se tratarán con Lydia Fossa, a través de su dirección electrónica: lfossa@pucp.edu.pe.

@@ -1,0 +1,60 @@
+---
+---
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html,body {
+  margin:0;
+  padding:0;
+}
+
+html {
+  font: 14px/1.325 Georgia, serif;
+  color: #444;
+}
+
+#banner {
+  display:flex;
+  flex-direction: column-reverse;
+  background-color: #800;
+  color: white;
+  color: rgba(white,.925);
+  font-family: "Gill Sans", sans-serif;
+  padding: 2em;
+  h1 {
+    margin:0;
+    font-weight: normal;
+  }
+}
+
+#global {
+  background-color: #800;
+  display: flex;
+  padding: 0 2em;
+  a,a:link {
+    background: rgba(white,0.325);
+    color: white;
+    text-decoration:none;
+    margin-right: 2px;
+    padding: .25em .625em;
+    border-radius: 5px 5px 0 0;
+  }
+
+  a:hover,
+  a:focus {
+    background: rgba(white,0.4125);
+  }
+  a:active,
+  a.current {
+    backgroujnd: rgba(white,0.5);
+  }
+}
+
+#main {
+  padding: 1em 2em;
+}
+
