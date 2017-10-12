@@ -93,3 +93,30 @@ h1 {
     display:block;
   }
 }
+
+#palabras {
+  display:flex;
+}
+
+#palabras-nav {
+   width: 25%;
+
+  a,:link {
+    display:block;
+    text-decoration:none;
+    color: #800;
+  }
+}
+
+#tables {
+  width: 70%;
+}
+
+#tables section {
+  display:none;
+}
+
+#tables section:target {
+  display:block;
+}
+
