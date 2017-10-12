@@ -13,8 +13,20 @@ html,body {
 }
 
 html {
-  font: 14px/1.325 Georgia, serif;
-  color: #444;
+  font: 14px/1.425 Georgia, serif;
+  color: #202020;
+}
+
+body {
+  font-size: 1rem;
+}
+
+h1,h2 {
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 150%;
 }
 
 #banner {
@@ -24,7 +36,7 @@ html {
   color: white;
   color: rgba(white,.925);
   font-family: "Gill Sans", sans-serif;
-  padding: 2em;
+  padding: 2em 5%;
   h1 {
     margin:0;
     font-weight: normal;
@@ -34,7 +46,7 @@ html {
 #global {
   background-color: #800;
   display: flex;
-  padding: 0 2em;
+  padding: 0 5%;
   a,a:link {
     background: rgba(white,0.325);
     color: white;
@@ -55,6 +67,29 @@ html {
 }
 
 #main {
-  padding: 1em 2em;
+  padding: 1em 0;
+  max-width: 90%;
+  margin: 0 auto;
+  display:flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
 }
 
+#autores {
+  display:block;
+  background: hsla(30,25%,50%,.1);
+  width: 25%;
+  min-width: 200px;
+  margin-right: 2em;
+  padding: 2em;
+
+  h1 {
+    font-size: 1rem;
+    margin:0;
+    font-weight: bold;
+  }
+
+  a {
+    display:block;
+  }
+}

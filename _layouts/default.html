@@ -16,6 +16,14 @@
 </nav>
 
 <main id="main" role="main">
+<div class="content"
 {{ content }}
+</div>
+<nav id="autores">
+<h1>Autores</h1>
+{% for autore in site.autores %}
+<a href="{{ autore.url }}">{{ autore.title }}</a>
+{% endfor %}
+</nav>
 </main>
 </html>
