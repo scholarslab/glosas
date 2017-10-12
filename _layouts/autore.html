@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article>
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+    {{ page.data }}
+    {% if page.data %}
+    {% assign links = site.data[page.data] | group_by: "palabra" %}
+    {% for link in links %}
+    <a href="#{{link.Palabra | downcase }}">{{ link.Palabra }}</a>
+    {% endfor %}
+    <table>
+      <thead>
+        <tr>
+          <th>Texto pag No</th>
+	  <th>Cita</th>
+        </tr>
+      </thead>
+      <tbody>
+    {% for row in site.data[page.data] %}
+    <tr>
+      <td>{{ row.pagina }}</td>
+      <td>{{ row.cita }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+    {% endif %}
+</article>
