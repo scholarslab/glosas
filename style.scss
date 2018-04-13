@@ -13,12 +13,14 @@ html,body {
 }
 
 html {
-  font: 14px/1.425 Georgia, serif;
+  font: 16px/1.675 Georgia, serif;
   color: #202020;
 }
 
 body {
   font-size: 1rem;
+  max-width: 1100px;
+  margin: 0 auto;
 }
 
 h1,h2 {
@@ -36,7 +38,7 @@ h1 {
   color: white;
   color: rgba(white,.925);
   font-family: "Gill Sans", sans-serif;
-  padding: 2em 5%;
+  padding: 2em;
   h1 {
     margin:0;
     font-weight: normal;
@@ -45,52 +47,59 @@ h1 {
 
 #global {
   background-color: #800;
+  padding: 0 2em;
   display: flex;
-  padding: 0 5%;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   a,a:link {
-    background: rgba(white,0.325);
-    color: white;
+    background: rgba(white,0.675);
+    color: black;
     text-decoration:none;
-    margin-right: 2px;
+    margin-right: 5px;
     padding: .25em .625em;
     border-radius: 5px 5px 0 0;
   }
 
   a:hover,
   a:focus {
-    background: rgba(white,0.4125);
+    background: rgba(white,0.75);
   }
   a:active,
   a.current {
-    backgroujnd: rgba(white,0.5);
+    backgroujnd: rgba(white,1);
   }
 }
 
 #main {
-  padding: 1em 0;
-  max-width: 90%;
-  margin: 0 auto;
+  padding: 2em;
   display:flex;
   flex-direction: row-reverse;
   justify-content: space-between;
 }
 
+.content {
+    width: 80%;
+}
+
 #autores {
   display:block;
   background: hsla(30,25%,50%,.1);
-  width: 25%;
-  min-width: 200px;
+  width: 20%;
   margin-right: 2em;
   padding: 2em;
 
-  h1 {
+  h1,h2 {
     font-size: 1rem;
     margin:0;
-    font-weight: bold;
+    font-weight: normal;
   }
 
+  h1 {
+      font-size: 1.1rem;
+      border-bottom: 1px solid rgba(black,.2);
+  }
   a {
     display:block;
+    font-size: .825rem;
   }
 }
 
@@ -99,7 +108,7 @@ h1 {
 }
 
 #palabras-nav {
-   width: 25%;
+   width: 20%;
 
   a,:link {
     display:block;
@@ -109,7 +118,7 @@ h1 {
 }
 
 #tables {
-  width: 70%;
+  width: 66%;
 }
 
 #tables section {
