@@ -129,3 +129,24 @@ h1 {
   display:block;
 }
 
+#tables table {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: .825rem;
+}
+
+#tables td {
+    padding: 5px 10px;
+}
+
+#tables thead th {
+    background: #585858;
+    color: white;
+    padding: 5px 10px;
+    line-height: 1.25;   
+}
+
+#tables tbody td {
+    background: #efefef;
+    background: rgba(0,0,0,0.063);
+    min-width: 100px;
+}
