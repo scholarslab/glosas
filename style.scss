@@ -105,11 +105,15 @@ h1 {
 
 #palabras {
   display:flex;
+
+  h2 {
+    font-size:1.25rem;
+  }
 }
 
 #palabras-nav {
    width: 20%;
-
+  font-size: .825rem;
   a,:link {
     display:block;
     text-decoration:none;
