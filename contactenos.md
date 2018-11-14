@@ -3,4 +3,5 @@ title: Contáctenos
 layout: page
 ---
 
-Dra. Lydia Fossa, lfossa@pucp.edu.pe.
+Dra. Lydia Fossa, lfossa@gmail.com
+
